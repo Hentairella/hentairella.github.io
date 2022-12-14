@@ -1,6 +1,5 @@
 
-Player.Description = `Code available here: https://github.com/keykey5/BC-BOT-repository
-Comment and suggestion thread on BC Discord: https://discord.com/channels/554377975714414605/1024007221845164052
+Player.Description = `Code available here: https://github.com/Hentairella/hentairella.github.io
 ----------------------------------------
 This little kinky game needs two players. When the game start you will be able to make actions. 
 Use emote <*> to play.
